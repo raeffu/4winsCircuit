@@ -1,1 +1,0 @@
-* Grundlagen Informatik Übung
