@@ -1,4 +1,4 @@
-Connets 4 circuit
+Connect 4 circuit
 =================
 
 Idee
@@ -36,4 +36,3 @@ Das Feld hat einzig und allein die Funktion ein LED anzuschalten. Entweder für 
 Ist das Feld einmal gesetzt, kann es nicht mehr geändert werden. Aussnahme: Reset-Funktion.
 
 ![Schaltung_Spielfeld](http://res.cloudinary.com/hag75sfi3/image/upload/v1382105471/node_g6cqkv.png)
-
